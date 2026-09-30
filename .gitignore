@@ -1,4 +1,42 @@
+## Visual Studio / .NET
+
+# Visual Studio
 .vs/
+
+# Build
 bin/
 obj/
+
+# User-specific files
 *.user
+*.suo
+*.userosscache
+*.rsuser
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# Coverage
+coverage/
+
+# Publish
+publish/
+
+# OS files
+.DS_Store
+Thumbs.db
